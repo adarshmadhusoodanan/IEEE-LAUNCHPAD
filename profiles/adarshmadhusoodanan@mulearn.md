@@ -1,7 +1,7 @@
 # Adarsh Madhusoodanan
 ### About Me
 
-> I am Adarsh Madhusoodanan , 3rd year Computer Science student from College Of Engineering Trikaripur, Kasaragod. I am currently Student Lead of IEDC CETKR. My basic programming languages are Java and Python. My interested fields are Machine Learning and AI.
+> I am Adarsh Madhusoodanan , 3rd year Computer Science student from College Of Engineering Trikaripur, Kasaragod. I am currently Mulearn Campus Lead of CETKR. My basic programming languages are Java and Python. My interested fields are Machine Learning and AI.
 
 ### Portfolio Highlights
 [linkedin](https://www.linkedin.com/in/adarshmadhusoodanan-666525223/)
@@ -10,7 +10,7 @@
 
 #### Leadership and Influence:
 
-- Currently I am the Student Lead of IEDC CETKR.
+- Currently I am the Mulearn Campus Lead of CETKR.
 - I was also worked as a YIP 6.0 intern at kannur district.
 
  #### Networking: 
